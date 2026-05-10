@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "firex",
   "VITE_ORDERLY_BROKER_NAME": "FireX",
   "VITE_BROKER_EOA_ADDRESS": "0xa67baae6a76e5ca3aad83a6a0db86dd8f6b5a50a",
   "VITE_DISABLE_MAINNET": "false",
