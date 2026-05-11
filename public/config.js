@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Campaigns",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard,Swap",
   "VITE_CUSTOM_MENUS": "Create DEX, https://dex.orderly.network/dex?distributor_code=FIREX",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
